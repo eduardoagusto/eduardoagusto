@@ -1,16 +1,17 @@
-### Hi there 👋
+## Eduardo Augusto - Front-End Developer
+Sempre tive contato e paixão pela área de tecnologia. No ano de 2021 ingressei no curso de Sistemas para Internet, aprendendo desde a lógica de programação, design, até interface humano-computador. Aptidão para desenvolvimento web, e continuo estudo de novas tecnologias e suas novas formas.
 
-<!--
-**eduardoagusto/eduardoagusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoagusto&theme=midnight-purple)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoagusto&theme=midnight-purple)
 
-Here are some ideas to get you started:
+Estudos complementares nas áreas de UI/UX, SEO e Acessibilidade <br>
+Facilidade para trabalhos em equipe;<br>
+Disponibilidade e boa comunicação.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e Linguagens<br>
+-JavaScript<br>
+-React.js<br>
+-Jquery<br>
+-HTML5<br>
+-CSS3<br>
+-Bootstrap<br>
