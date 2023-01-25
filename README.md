@@ -12,7 +12,7 @@
 Sempre tive contato e paixão pela área de tecnologia. No ano de 2021 ingressei no curso de Sistemas para Internet, aprendendo desde a lógica de programação, design, até interface humano-computador. Aptidão para desenvolvimento web, e continuo estudo de novas tecnologias e suas novas formas.
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoagusto&layout=compact)
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoagusto&theme=midnight-purple)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoagusto&show_icons=true)
 
 Estudos complementares nas áreas de UI/UX, SEO e Acessibilidade <br>
 Facilidade para trabalhos em equipe;<br>
